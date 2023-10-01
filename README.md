@@ -1,11 +1,9 @@
-# Tugas-1-Riset-Informatika
+<h3>Nama&nbsp: Rizqy Khoirul Waritsin</h3> 
+<h3>NPM&nbsp : 20081010082</h3> 
+<h3>Kelas&nbsp : Riset Informatika C081</h3><br>
+<h1 align="center">Pengembangan Sistem Rekomendasi Konten Website Berita Menggunakan Algoritma Naïve Bayes</h1>
 
-Nama : Rizqy Khoirul Waritsin
-NPM : 20081010082
-Kelas : Riset Informatika C081
-Pengembangan Sistem Rekomendasi Konten Website Berita Menggunakan Algoritma Naïve Bayes
-
-Dalam era digital yang penuh dengan informasi yang berlimpah, pengguna internet sering kali menghadapi tantangan dalam menemukan berita yang relevan dengan minat dan preferensi mereka. Website berita dan platform media sosial telah menjadi sumber utama berita bagi banyak orang, tetapi ketersediaan berita yang begitu banyak membuat sulit untuk memilah informasi yang paling relevan dan bermanfaat. Sistem rekomendasi berita telah menjadi solusi yang semakin penting untuk membantu pengguna menavigasi hiruk-pikuk informasi dan menemukan berita yang paling sesuai dengan minat mereka. Namun, keberhasilan sistem rekomendasi ini seringkali tergantung pada sejauh mana personalisasi yang dapat mereka tawarkan kepada pengguna. Dalam banyak kasus, personalisasi ini belum mencapai tingkat yang memuaskan. Algoritma Naïve Bayes adalah salah satu alat yang digunakan dalam machine learning untuk membuat prediksi berdasarkan data. Dalam konteks rekomendasi berita, penggunaan Naïve Bayes dapat memberikan pendekatan yang menarik untuk meningkatkan tingkat personalisasi rekomendasi berita.
+<p align="justify">Dalam era digital yang penuh dengan informasi yang berlimpah, pengguna internet sering kali menghadapi tantangan dalam menemukan berita yang relevan dengan minat dan preferensi mereka. Website berita dan platform media sosial telah menjadi sumber utama berita bagi banyak orang, tetapi ketersediaan berita yang begitu banyak membuat sulit untuk memilah informasi yang paling relevan dan bermanfaat. Sistem rekomendasi berita telah menjadi solusi yang semakin penting untuk membantu pengguna menavigasi hiruk-pikuk informasi dan menemukan berita yang paling sesuai dengan minat mereka. Namun, keberhasilan sistem rekomendasi ini seringkali tergantung pada sejauh mana personalisasi yang dapat mereka tawarkan kepada pengguna. Dalam banyak kasus, personalisasi ini belum mencapai tingkat yang memuaskan. Algoritma Naïve Bayes adalah salah satu alat yang digunakan dalam machine learning untuk membuat prediksi berdasarkan data. Dalam konteks rekomendasi berita, penggunaan Naïve Bayes dapat memberikan pendekatan yang menarik untuk meningkatkan tingkat personalisasi rekomendasi berita.</p>
 
 Pertanyaan yang menjadi focus penilitian:
 1.	Bagaimana mengukur tingkat personalisasi yang ada pada sistem rekomendasi berita saat ini di website tersebut?
